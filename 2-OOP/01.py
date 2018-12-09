@@ -29,3 +29,4 @@ print(wxz.name)
 print(wxz.age)
 # 需要成员函数的调用没有传递进入参数
 wxz.doHomework()
+print(wxz)
